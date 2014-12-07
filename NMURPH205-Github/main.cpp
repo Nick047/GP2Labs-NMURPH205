@@ -2,6 +2,7 @@
 //Add a text file to the project called simpleVS.glsl		//make sure the locations point to the shade folder
 //Add an additional include directory for C:\Specialised Applications\glm
 //Put the headers in it's own folder as the main directoy is cramped
+//to push github
 
 //Maths headers
 #include <glm/glm.hpp>
